@@ -9,6 +9,8 @@ In this assignment you will create the database and connect it to your web appli
 4. command "python manage.py runserver" to open the website, after registered and filled the profile user created, the data would be stored into fuelCompany database.
 
 # Screenshot:
+![986521547f1a861d721c01694a80dab](https://user-images.githubusercontent.com/70247607/113456803-dff9ba80-93d3-11eb-9b15-8ab65c7c3d41.png)
+
 
 ![49d5abe301bd1a4570d016bbf5c72f0](https://user-images.githubusercontent.com/70247607/113456736-b17bdf80-93d3-11eb-8a97-bc8bb6b56d71.png)
 ![899f5184aabb207c71dcc48a74449ff](https://user-images.githubusercontent.com/70247607/113456745-b50f6680-93d3-11eb-9d40-832a87d766be.png)
